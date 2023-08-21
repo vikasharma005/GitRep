@@ -10,7 +10,7 @@ conn = GitHubConnection("github")
 st.set_page_config(layout='wide')
 
 # Sidebar
-st.sidebar.image("github-logo.png", width=100)
+st.sidebar.image("https://github.com/vikasharma005/GitRep/blob/main/github-logo.png", width=100)
 st.sidebar.title("GitHub User Explorer 🚀")
 github_username = st.sidebar.text_input("Enter GitHub Username:")
 
