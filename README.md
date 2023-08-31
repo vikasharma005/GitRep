@@ -1,7 +1,7 @@
 # GitHub User Explorer using Streamlit
 
 <p align="center">
-  <img src="/content/github-logo.png" alt="GitHub User Explorer" width="300">
+  <img src="https://github.com/vikasharma005/GitRep/blob/main/github-logo.png" alt="GitHub User Explorer" width="300">
 </p>
 
 GitHub User Explorer is a dynamic web application built with [Streamlit](https://streamlit.io/) that empowers users to effortlessly explore the GitHub activities and profile of any user. By simply entering a GitHub username, you can delve into a wealth of information about the user's repositories, contributions, issues, and more.
